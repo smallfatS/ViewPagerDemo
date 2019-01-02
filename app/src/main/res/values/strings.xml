@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ViewPagerDemo</string>
+    <string name="num_tip">第%s张卡片~</string>
+</resources>
